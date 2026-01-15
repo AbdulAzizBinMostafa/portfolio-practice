@@ -194,3 +194,73 @@ nav  .color-orange:hover{
 
     font-size: 20px;
 }
+
+#skills .skills-container .sections-heading h2 {
+
+    margin-top: 130px;
+    margin-bottom: 30px;
+    margin-left: 715px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+
+}
+
+#skills .skills-container .sections-heading p {
+
+    margin-left: 385px;
+    margin-right: 385px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    color: #757575;
+    
+}
+
+#skills .skills-container .skill-box  {
+
+    display: flex;
+    margin-left: 230PX;
+    margin-right: 230PX;
+    gap: 30px;
+
+}
+
+.skill-box .skill-card {
+
+    
+    border-radius: 10px;
+    height: 370px;
+    width: 260px;
+    margin-bottom: 130px ;
+
+    box-shadow: 0 12px 25px rgba(0,0,0,0.25);
+    transform: translateY(-5px);
+}
+
+ 
+.skill-box .skill-card img {
+
+    height: 44px;
+    width: 44px;
+    margin-top: 32px;
+    margin-left: 33px;
+    margin-bottom: 28px;
+}
+
+.skill-box .skill-card h3 {
+
+     margin-left: 33px;
+     margin-bottom: 20px;
+     font-size: 20px;
+}
+
+.skill-box .skill-card p {
+
+     margin-left: 33px;
+     margin-right: 33px;
+
+     font-size: 16px;
+     color: #757575;
+}
